@@ -8,4 +8,3 @@ Atualmente, busco uma oportunidade de estágio em desenvolvimento de software.
 
 **Tecnologias:** React · Next.js · TypeScript · JavaScript · Node.js · Python · PostgreSQL · MySQL · Git
 
-**LinkedIn:** [Gustavo Alvim](https://www.linkedin.com/in/gustavoalvim41/)
